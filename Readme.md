@@ -1,5 +1,3 @@
-Sure! Below is a template for the `README.md` file for your "PixelUi" library:
-
 ````markdown
 # PixelUi
 
