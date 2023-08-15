@@ -4,8 +4,7 @@
     "outDir": "dist",
     "declaration": true,
     "rootDir": "src",
-    "composite": true,
-    "jsx": "react"
+    "composite": true
   },
   "include": ["./src/"]
 }

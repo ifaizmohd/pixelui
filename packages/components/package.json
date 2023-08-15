@@ -3,8 +3,15 @@
   "version": "1.0.0",
   "main": "src/index.ts",
   "license": "MIT",
+  "private": true,
   "dependencies": {
+    "@pixelui/themes": "1.0.0",
+    "@storybook/react": "^7.2.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.0.7"
+  },
+  "devDependencies": {
+    "@storybook/react": "^7.2.1"
   }
 }
